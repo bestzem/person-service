@@ -13,9 +13,15 @@
 
 ### IntelliJ IDEA ###
 .idea
+.idea/
 *.iws
 *.iml
 *.ipr
+out/
+*.iml
+
+# Maven #
+target/
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
